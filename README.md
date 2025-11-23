@@ -109,5 +109,6 @@ __OUTPUT GRAPH:__
 
 __RESULT:__
 
-Thus the program for mean, variance and cross correlation in SCILAB and output is veified.
+![WhatsApp Image 2025-11-23 at 07 34 06_f4bdf1d7](https://github.com/user-attachments/assets/f66b1c1f-d7c9-451c-bf10-77e7486b2681)
+
 
